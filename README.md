@@ -17,16 +17,25 @@ The output for each robot should be its final coordinates and heading.
 
 Example:
 Test Input:
+
 5 5
+
 1 2 N
+
 PQPQPQPQQ
+
 3 3 E
+
 QQRQQRQRRQ
 
 
+
 Expected Output:
+
 1 3 N
+
 5 1 E
+
 
 ------------------------------ 
  1. Implemented above assignment in JAVA environment (Eclipse IDE)
